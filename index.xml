@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eduard de Boer (Dutch Photographer)</title><link>https://eduarddeboer.github.io/</link><atom:link href="https://eduarddeboer.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Eduard de Boer (Dutch Photographer)</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Eduard de Boer -- All rights reserved</copyright><lastBuildDate>Sun, 08 Mar 2020 10:00:00 +0000</lastBuildDate><image><url>https://eduarddeboer.github.io/img/Eduard-de-Boer-square-600x600.jpg</url><title>Eduard de Boer (Dutch Photographer)</title><link>https://eduarddeboer.github.io/</link></image><item><title>Google My Business Provider: My first 2 months...</title><link>https://eduarddeboer.github.io/post/google-my-business-provider-my-first-2-months/</link><pubDate>Sun, 08 Mar 2020 10:00:00 +0000</pubDate><guid>https://eduarddeboer.github.io/post/google-my-business-provider-my-first-2-months/</guid><description>&lt;p>&lt;strong>On January 7th this year, I was migrated by Google from Trusted Verifier to a&lt;/strong>
+&lt;a href="https://eduarddeboer.github.io/post/20200107-google-my-business-provider/">&lt;strong>Google My Business Provider&lt;/strong>&lt;/a>&lt;strong>. This means that I can help businesses to verify their Google My Business listing instantaneously.&lt;/strong>&lt;/p>
+&lt;p>After being in the program for 2 months and 2 days now, I like to look back to see how I have experienced it and how I have been able to help businesses throughout the world&amp;hellip;&lt;/p>
+&lt;h2 id="my-experience-with-the-program">My experience with the program&lt;/h2>
+&lt;p>The interface through
+&lt;a href="https://partnerdash.google.com/mybusinessprovider" target="_blank" rel="noopener">https://partnerdash.google.com/mybusinessprovider&lt;/a> works OK, but is missing a few features, which in my opinion could give a better experience to the My Business Provider:&lt;/p>
+&lt;ul>
+&lt;li>The interface does what it needs to do: allow me to generate tokens for business owners, which I can send to them, to enable them to finally claim their Google My Business listing.&lt;/li>
+&lt;li>It works fast: a token is generated within the blink of an eye and a list of verification tokens is able for downloading within a matter of seconds after uploading.&lt;/li>
+&lt;li>The verification process for business owners seems to be simple and comprehensible, because I never receive any questions about it.&lt;/li>
+&lt;li>From the perspective from the business owner it also works fast: they are able to claim a listing normally within 1-2 minutes.&lt;/li>
+&lt;li>I am currently set up as a
+&lt;a href="https://www.insideview.biz/news/google-my-business-provider/" target="_blank" rel="noopener">My Business Provider for Africa&lt;/a>. In the interface I see all the tokens, generated for businesses throughout Africa by myself AND also by all other My Business Providers! As a result of this, I have to search for my own tokens in a long list, each time I want to check the status of my generated tokens. It would be a lot better, if I only saw my own tokens.&lt;/li>
+&lt;li>I&amp;rsquo;d love to receive an automated email message, when a business I have sent a verification token to, successfully claims its&amp;rsquo; listing. This would allow me to easily tick this off from one of my own ToDo-lists, without having to go back to the interface, search the listing and see whether or not it has been claimed already.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://eduarddeboer.github.io/img/20200309-my-business-provider.png" alt="User interface of Google My Business Provider" title="My Business Provider interface">&lt;/p>
+&lt;h2 id="questions">Questions?&lt;/h2>
+&lt;p>If you have any questions or want more information on how Google My Business can help you with your business, feel free to
+&lt;a href="https://eduarddeboer.github.io/#contact/">contact&lt;/a> me.&lt;/p></description></item><item><title>How can your website be so fast?</title><link>https://eduarddeboer.github.io/post/20200219-how-can-your-website-be-so-fast/</link><pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate><guid>https://eduarddeboer.github.io/post/20200219-how-can-your-website-be-so-fast/</guid><description>&lt;p>&lt;strong>WordPress used to be my go-to CMS for more than a decade. I have developed numerous client&amp;rsquo; websites, themes, modified existing plugins and also experimented with developing my own plugins. Once issue that always required a lot of work and ongoing attention, was the performance of each site. Then I discovered the world of static website generators&amp;hellip;&lt;/strong>&lt;/p>
+&lt;p>The World Wide Web actually started being 100% static. The first version of HTML, as developed by Sir Tim Berners-Lee, only contained 18 tags and was served as static files from a webserver, without requiring a database. Later databases became a needed resource as customer demands and requirements increased and HTML and website development evolved into dynamic, interactive environments.&lt;/p>
+&lt;p>Great (Open Source) Content Management Systems (CMS&amp;rsquo;es), such as WordPress and Drupal came into existence and were happily embraced by the whole world. Imagine that nowadays, WordPress is powering over 35% of all websites around the world!&lt;/p>
+&lt;p>Admitted, using an off-the-shelf theme to create your own WordPress website is not much more than a few mouse clicks. This makes these popular CMS&amp;rsquo;es an obvious choice for many people and organizations who need a website.&lt;/p>
+&lt;p>Funnily enough, many of those sites are pretty static from a visitor&amp;rsquo;s perspective and when you look at them from that angle, they would not require the whole overhead of a CMS with a database.&lt;/p>
+&lt;p>Then I discovered static website generators&amp;hellip;&lt;/p>
+&lt;h2 id="what-is-a-static-website-generator">What is a static website generator?&lt;/h2>
+&lt;p>As the name suggests, a static website generator&amp;hellip; well&amp;hellip; &lt;em>generates a static website!&lt;/em> This means that the content and other data shown in the site, is not being served from a webserver that is running for example the PHP-based WordPress or Drupal to fetch all the content the content and layout from a database, but as simple pre-generated files.&lt;/p>
+&lt;p>Because all the overhead is removed, this results in a much faster website:&lt;/p>
+&lt;p>&lt;img src="https://eduarddeboer.github.io/img/20200219-pingdom-website-edb.png" alt="Performance of this website on Pingdom">&lt;/p>
+&lt;p>I decided to jump in to discover more about the possibilities. After a brief research I choose for
+&lt;a href="https://gohugo.io" target="_blank" rel="noopener">HUGO&lt;/a>, downloaded it for my MacBook Pro together with a free HUGO theme, called &amp;ldquo;Academic&amp;rdquo;. And instead of hosting it with my standard hosting provider, I moved it to Amazon S3 to see how well it all could perform.&lt;/p>
+&lt;p>You&amp;rsquo;re currently viewing the results of my first attempts in the world of static websites.&lt;/p>
+&lt;p>As you can see in the image above, the homepage loads in less than 300 ms. As far as I can tell, that is pretty impressive and great from a user perspective!&lt;/p>
+&lt;h2 id="advantages-of-a-static-website">Advantages of a static website&lt;/h2>
+&lt;p>A static website has a lot of advantages. Let&amp;rsquo;s cover the most obvious:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>FASTER&lt;/strong> – because you are only hosting and serving static files.&lt;/li>
+&lt;li>&lt;strong>More secure&lt;/strong> – after all, there is no processing or database involved in the backend, so what is there to hack?&lt;/li>
+&lt;li>&lt;strong>Lower cost for hosting&lt;/strong> – hosting a static website can be done fairly cheap and even for free.&lt;/li>
+&lt;li>&lt;strong>Easier to scale&lt;/strong> – Although I am not hosting this site for a long time at the moment, I think the cost of hosting this website on Amazon is less than € 0,10 per month, whereas the performance will not suffer, even when the website will be hammered.&lt;/li>
+&lt;/ul>
+&lt;p>Of course you miss some of the advantages of dynamic websites with their related CMS&amp;rsquo;es. A CMS is:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>More flexible&lt;/strong> – with regards to installing plugins and other code to extend the functionality&lt;/li>
+&lt;li>&lt;strong>Easier to update content&lt;/strong> – e.g. out-of-the-box WordPress comes with a great editor (Gutenberg) which looks familiar to anyone who knows a word processor. This makes it very easy to publish new content.&lt;/li>
+&lt;/ul>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>I don&amp;rsquo;t know where this experiment will be leading me. I&amp;rsquo;ll keep you posted&amp;hellip;&lt;/p></description></item><item><title>Senegambia Beach Hotel - Gambia</title><link>https://eduarddeboer.github.io/project/senegambia-beach-hotel/</link><pubDate>Sat, 01 Feb 2020 13:36:08 +0100</pubDate><guid>https://eduarddeboer.github.io/project/senegambia-beach-hotel/</guid><description>&lt;iframe src="https://www.google.com/maps/embed?pb=!4v1580560670624!6m8!1m7!1sCAoSLEFGMVFpcE43ak5RaUJsVWRKenRVT2ZEcHVjVzJaeW5mOHNjT0F0TFdSXy1v!2m2!1d13.444297673233!2d-16.724304105011!3f346.06!4f-5.849999999999994!5f0.4000000000000002" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="">&lt;/iframe></description></item><item><title>Certified Google My Business Provider</title><link>https://eduarddeboer.github.io/post/20200107-google-my-business-provider/</link><pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate><guid>https://eduarddeboer.github.io/post/20200107-google-my-business-provider/</guid><description>&lt;p>&lt;strong>I became a Google My Business Trusted Verifier back in 2018. Since that time, I have verified many businesses, mainly in Africa. Because in Europe businesses can easily use the Google Postcard validation to claim/verify their Google My Business listing, but in most African countries there is no regular mail delivery system in place.&lt;/strong>&lt;/p>
+&lt;p>Read more:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;
+&lt;a href="https://www.insideview.biz/news/trusted-verifier-africa/" target="_blank" rel="noopener">Google My Business Trusted Verifier for Africa!&lt;/a>&amp;rdquo; (2018-09-18)&lt;/li>
+&lt;li>&amp;ldquo;
+&lt;a href="https://www.insideview.biz/news/google-my-business-provider/" target="_blank" rel="noopener">Google My Business Provider for Africa&lt;/a>&amp;rdquo; (2020-01-31)&lt;/li>
+&lt;li>&amp;ldquo;
+&lt;a href="https://support.google.com/business/answer/7577173?hl=en&amp;amp;ref_topic=7577342" target="_blank" rel="noopener">About My Business Provider&lt;/a>&amp;rdquo; (source: Google)&lt;/li>
+&lt;/ul></description></item></channel></rss>

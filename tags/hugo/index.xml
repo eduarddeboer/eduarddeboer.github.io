@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HUGO | Eduard de Boer (Dutch Photographer)</title><link>https://eduarddeboer.github.io/tags/hugo/</link><atom:link href="https://eduarddeboer.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><description>HUGO</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Eduard de Boer -- All rights reserved</copyright><lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>https://eduarddeboer.github.io/img/Eduard-de-Boer-square-600x600.jpg</url><title>HUGO</title><link>https://eduarddeboer.github.io/tags/hugo/</link></image><item><title>How can your website be so fast?</title><link>https://eduarddeboer.github.io/post/20200219-how-can-your-website-be-so-fast/</link><pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate><guid>https://eduarddeboer.github.io/post/20200219-how-can-your-website-be-so-fast/</guid><description>&lt;p>&lt;strong>WordPress used to be my go-to CMS for more than a decade. I have developed numerous client&amp;rsquo; websites, themes, modified existing plugins and also experimented with developing my own plugins. Once issue that always required a lot of work and ongoing attention, was the performance of each site. Then I discovered the world of static website generators&amp;hellip;&lt;/strong>&lt;/p>
+&lt;p>The World Wide Web actually started being 100% static. The first version of HTML, as developed by Sir Tim Berners-Lee, only contained 18 tags and was served as static files from a webserver, without requiring a database. Later databases became a needed resource as customer demands and requirements increased and HTML and website development evolved into dynamic, interactive environments.&lt;/p>
+&lt;p>Great (Open Source) Content Management Systems (CMS&amp;rsquo;es), such as WordPress and Drupal came into existence and were happily embraced by the whole world. Imagine that nowadays, WordPress is powering over 35% of all websites around the world!&lt;/p>
+&lt;p>Admitted, using an off-the-shelf theme to create your own WordPress website is not much more than a few mouse clicks. This makes these popular CMS&amp;rsquo;es an obvious choice for many people and organizations who need a website.&lt;/p>
+&lt;p>Funnily enough, many of those sites are pretty static from a visitor&amp;rsquo;s perspective and when you look at them from that angle, they would not require the whole overhead of a CMS with a database.&lt;/p>
+&lt;p>Then I discovered static website generators&amp;hellip;&lt;/p>
+&lt;h2 id="what-is-a-static-website-generator">What is a static website generator?&lt;/h2>
+&lt;p>As the name suggests, a static website generator&amp;hellip; well&amp;hellip; &lt;em>generates a static website!&lt;/em> This means that the content and other data shown in the site, is not being served from a webserver that is running for example the PHP-based WordPress or Drupal to fetch all the content the content and layout from a database, but as simple pre-generated files.&lt;/p>
+&lt;p>Because all the overhead is removed, this results in a much faster website:&lt;/p>
+&lt;p>&lt;img src="https://eduarddeboer.github.io/img/20200219-pingdom-website-edb.png" alt="Performance of this website on Pingdom">&lt;/p>
+&lt;p>I decided to jump in to discover more about the possibilities. After a brief research I choose for
+&lt;a href="https://gohugo.io" target="_blank" rel="noopener">HUGO&lt;/a>, downloaded it for my MacBook Pro together with a free HUGO theme, called &amp;ldquo;Academic&amp;rdquo;. And instead of hosting it with my standard hosting provider, I moved it to Amazon S3 to see how well it all could perform.&lt;/p>
+&lt;p>You&amp;rsquo;re currently viewing the results of my first attempts in the world of static websites.&lt;/p>
+&lt;p>As you can see in the image above, the homepage loads in less than 300 ms. As far as I can tell, that is pretty impressive and great from a user perspective!&lt;/p>
+&lt;h2 id="advantages-of-a-static-website">Advantages of a static website&lt;/h2>
+&lt;p>A static website has a lot of advantages. Let&amp;rsquo;s cover the most obvious:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>FASTER&lt;/strong> – because you are only hosting and serving static files.&lt;/li>
+&lt;li>&lt;strong>More secure&lt;/strong> – after all, there is no processing or database involved in the backend, so what is there to hack?&lt;/li>
+&lt;li>&lt;strong>Lower cost for hosting&lt;/strong> – hosting a static website can be done fairly cheap and even for free.&lt;/li>
+&lt;li>&lt;strong>Easier to scale&lt;/strong> – Although I am not hosting this site for a long time at the moment, I think the cost of hosting this website on Amazon is less than € 0,10 per month, whereas the performance will not suffer, even when the website will be hammered.&lt;/li>
+&lt;/ul>
+&lt;p>Of course you miss some of the advantages of dynamic websites with their related CMS&amp;rsquo;es. A CMS is:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>More flexible&lt;/strong> – with regards to installing plugins and other code to extend the functionality&lt;/li>
+&lt;li>&lt;strong>Easier to update content&lt;/strong> – e.g. out-of-the-box WordPress comes with a great editor (Gutenberg) which looks familiar to anyone who knows a word processor. This makes it very easy to publish new content.&lt;/li>
+&lt;/ul>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>I don&amp;rsquo;t know where this experiment will be leading me. I&amp;rsquo;ll keep you posted&amp;hellip;&lt;/p></description></item></channel></rss>
